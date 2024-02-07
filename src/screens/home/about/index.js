@@ -1,1 +1,1 @@
-export { About } from "./about";
+export { Index } from "./index";
