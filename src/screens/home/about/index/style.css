@@ -1,0 +1,17 @@
+.index {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .about-wrapper {
+    height: 1106px;
+    width: 1903px;
+  }
+  
+  .index .about-instance {
+    width: unset !important;
+  }
+  
